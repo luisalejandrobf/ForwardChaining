@@ -1,0 +1,7 @@
+R5 if Z & L => S
+R1 if A & N => E
+R3 if D | M => Z
+R2 if A => M
+R4 if Q & ~W & ~Z => N
+R6 if L & M => E
+R7 if B & C => Q
